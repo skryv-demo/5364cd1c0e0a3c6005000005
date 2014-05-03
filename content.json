@@ -1,1 +1,7 @@
-{}
+{
+    "sender": {
+        "street": "Stationsstraat"
+    },
+    "receiver": {},
+    "stamps": []
+}
