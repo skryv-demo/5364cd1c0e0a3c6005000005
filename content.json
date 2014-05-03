@@ -1,6 +1,8 @@
 {
     "sender": {
-        "street": "Stationsstraat"
+        "street": "Stationsstraat",
+        "number": 34,
+        "city": "Lebbeke"
     },
     "receiver": {},
     "stamps": []
